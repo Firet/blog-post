@@ -12096,11 +12096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Damian\\Desktop\\SW\\ASP\\aplicacionASP.csproj",
+      "projectUniqueName": "C:\\Users\\Damian\\Desktop\\blogpost\\aplicacionASP.csproj",
       "projectName": "aplicacionASP",
-      "projectPath": "C:\\Users\\Damian\\Desktop\\SW\\ASP\\aplicacionASP.csproj",
+      "projectPath": "C:\\Users\\Damian\\Desktop\\blogpost\\aplicacionASP.csproj",
       "packagesPath": "C:\\Users\\Damian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Damian\\Desktop\\SW\\ASP\\obj\\",
+      "outputPath": "C:\\Users\\Damian\\Desktop\\blogpost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
